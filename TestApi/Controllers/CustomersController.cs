@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TestApi.Models;
-using Newtonsoft.Json;
 
 namespace TestApi.Controllers
 {
